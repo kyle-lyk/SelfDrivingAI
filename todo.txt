@@ -1,0 +1,2 @@
+1. Use torch for auto feedforward and backforward
+2. Add a goal for RL uses
